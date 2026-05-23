@@ -1,1 +1,44 @@
-# Data-Science-Portfolio
+# 📊 Data Science & Predictive Analytics Portfolio
+
+Welcome to my data science and predictive modeling repository. This portfolio contains end-to-end data pipelines, exploratory data analysis (EDA), key performance indicator (KPI) architectures, and machine learning models designed to solve complex business intelligence challenges.
+
+---
+
+## 📂 Portfolio Projects
+
+### 1. 👥 Customer Churn Analysis & Retention Strategy
+* **Directory:** [`/Customer-Churn-Analysis`](./Customer-Churn-Analysis/)
+* **Stack:** Python, Pandas, NumPy, Seaborn, Matplotlib, EDA, KPI Design
+* **Core Results:** Engineered an advanced data validation pipeline to merge fragmented customer activity and support logs. Identified a stark 41% churn rate within free-tier profiles compared to a ~23% subscription baseline. Developed the predictive metric `30-Day Zero-Activity Rate` to capture drop-off indicators before they happen, giving stakeholders actionable remediation playbooks.
+
+### 2. 🚗 Used Car Market Price Prediction Model
+* **Directory:** [`/Used-Car-Price-Prediction`](./Used-Car-Price-Prediction/)
+* **Stack:** Python, Scikit-learn, Random Forest, KNN Imputation, Regression Modeling
+* **Core Results:** Built a comprehensive machine learning regression pipeline matching over 371,000 automotive listings. Addressed extreme value variance using robust algorithmic scaling and missing value feature fields via KNN Imputation. Deployed an optimized Random Forest architecture achieving an $R^2$ score of 88%, validating that vehicle mileage and registration cohorts dictate over 70% of asset depreciation curves.
+
+---
+
+## 🛠️ Environment Configuration
+
+To execute these workbooks locally, initialize a virtual environment and load dependencies inside your chosen project subfolder:
+
+```bash
+# Clone the portfolio
+git clone [https://github.com/YOUR_GITHUB_USERNAME/Data-Science-Portfolio.git](https://github.com/YOUR_GITHUB_USERNAME/Data-Science-Portfolio.git)
+cd Data-Science-Portfolio
+
+# Navigate to a project folder
+cd Customer-Churn-Analysis
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+---
+```
+
+## 💼 Technical Competencies
+
+* **Programming & Systems:** Python (Pandas, NumPy, Scikit-learn), SQL, Markdown
+* **Data Engineering:** Multivariate Imputation (KNN), Robust Outlier Scaling, Multi-Source Log Aggregation
+* **Statistical Visualization:** Seaborn, Matplotlib, Funnel Decay Plots, Feature Importance Modeling
+* **Domain Focus:** Business Intelligence, Predictive Market Modeling, Retention Diagnostics
