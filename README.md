@@ -17,7 +17,7 @@ Welcome to my data science and predictive modeling repository. This portfolio co
 * **Core Results:** Built a comprehensive machine learning regression pipeline matching over 371,000 automotive listings. Addressed extreme value variance using robust algorithmic scaling and missing value feature fields via KNN Imputation. Deployed an optimized Random Forest architecture achieving an $R^2$ score of 88%, validating that vehicle mileage and registration cohorts dictate over 70% of asset depreciation curves.
 
 ### 3. 💊 FDA Drug Adverse Event Classification Modeling
-* **Directory:** [`/FDA-Drug-Adverse-Event-Classification`](./FDA-Drug-Adverse-Event-Classification/)
+* **Directory:** [`/FDA Drug Adverse Event Classification Modeling`](./FDA%20Drug%20Adverse%20Event%20Classification%20Modeling/)
 * **Stack:** Python, Pandas, NumPy, Scikit-learn, LightGBM/XGBoost, Classification Pipelines, Hyperparameter Tuning
 * **Core Results:** Developed a comprehensive machine learning pipeline using a decade of pharmacovigilance data from the FDA Adverse Event Reporting System (FAERS). Implemented advanced data processing strategies to mitigate missing value challenges—such as missing patient weight—and managed reporting biases. Built and optimized classification models predicting severe patient outcomes, including serious case flags, hospitalizations, and fatalities, utilizing demographics, report sources, and drug characteristics to improve safety-risk forecasting.
 
