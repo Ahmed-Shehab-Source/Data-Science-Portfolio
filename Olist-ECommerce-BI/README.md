@@ -1,7 +1,18 @@
 # Retail Pulse | Olist Brazilian E-Commerce Executive Performance Report
 
-![Dashboard Preview](assets/dashboard_preview.png)
+## 🖥️ Dashboard Interface Previews
 
+### 1. Sales & Revenue Overview
+![Sales Overview](assets/dashboard_preview.png)
+
+### 2. Delivery & Logistical Operations
+![Delivery Operations](assets/dashboard_preview_1.png)
+
+### 3. Customer Analytics & Geographic Density
+![Customer Analytics](assets/dashboard_preview_2.png)
+
+### 4. Product Health & Marketplace Sellers
+![Product Analytics](assets/dashboard_preview_3.png)
 ## 📌 Project Overview
 This project provides an end-to-end business intelligence solution analyzing approximately **100,000 orders** from the Olist Marketplace in Brazil spanning **2016–2018**. The interactive Power BI dashboard provides executive visibility into the entire e-commerce funnel, core operational logistics, customer sentiment distribution, and individual product health metrics.
 
